@@ -1,0 +1,87 @@
+<title>Trường THPT Tây Ninh</title>
+	<style>
+    	body {
+        	margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #d2f3ff, #ffffff);
+    	}
+    	h1 {
+        	font-size: 50px;
+        	margin: 20px;
+            background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+            -webkit-background-clip: text;
+        	color: transparent;
+            font-weight: bold;
+    	}
+    	header {
+        	padding: 20px;
+    	}
+    	.container {
+        	width: 90%;
+        	max-width: 900px;
+        	margin: auto;
+            background: #ffffffcc;
+        	padding: 20px;
+            border-radius: 10px;
+  	      box-shadow: 0px 0px 10px #0003;
+    	}
+    	img {
+        	width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+    	}
+    	footer {
+            text-align: center;
+        	padding: 15px;
+        	margin-top: 20px;
+            background: #e0f2ff;
+            font-weight: bold;
+    	}
+    	
+	</style>
+</head>
+<style>
+    .side-img {
+        width: 360px;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 25px;
+        border-radius: 45px;
+    }
+</style>
+<body>
+	<header>
+    	<h1>Trường THPT Tây Ninh</h1>
+	</header>
+	<div class="container">
+    	<h2>Giới thiệu</h2>
+    	<p>
+        	Trường THPT Tây Ninh là một trong những ngôi trường lớn tại tỉnh Tây Ninh,
+        	với bề dày truyền thống dạy và học. Trường luôn hướng đến mục tiêu đào tạo
+        	học sinh có kiến thức vững vàng, đạo đức tốt và kỹ năng sống cần thiết.
+    	</p>
+    	
+    	<h2>Hình ảnh trường</h2>
+    	<!-- Bạn có thể thay link ảnh bên dưới -->
+    	<img src="https://nhadattayninh.net/wp-content/uploads/2024/03/DSC02430.jpg">
+ <div class="img-row">
+    <img class="side-img" src="https://i.ibb.co/xStF6JvM/583823186-874736578243099-3687286469637068179-n.jpg" alt="Ảnh trái">
+    
+</div>
+        <h2>Thông tin liên hệ</h2>
+        <p><b>Địa chỉ:</b> Nguyễn Chí Thanh, khu phố 5, phường Tân Ninh, tỉnh Tây Ninh</p>
+        <p><b>Trang web của trường:</b></p><a href="https://thpt-tayninh.violet.vn/" target="_blank">https://thpt-tayninh.violet.vn/</a>
+<style><style>
+    .side-img {
+        width: 360px;
+        float: right;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+</style>
+<div><img class="side-img" src="https://i.ibb.co/d4rXdhNg/584605409-874736691576421-6479800452393839783-n.jpg" alt="Ảnh phải"></div>
+        <p><b>Facebook:</b></p><a href="https://www.facebook.com/profile.php?id=100072392413520" target="_blank">https://www.facebook.com/profile.php?id=100072392413520</a>
+	<footer>
+    	© 2025 Trường THPT Tây Ninh
+	</footer>
